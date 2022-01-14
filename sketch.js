@@ -27,13 +27,13 @@ function setup() {
   };
  
   var ball_options = {
-    restitution:0.09,
+    restitution:1,
     frictionAir:0.06,
 
   }
 
   var rock_options = {
-    restitution:0.09,
+    restitution:0.1,
     frictionAir:0.01
   }
    
